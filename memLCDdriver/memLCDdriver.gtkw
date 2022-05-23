@@ -1,0 +1,74 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon May 24 20:33:08 2021
+[*]
+[dumpfile] "/home/zerotoasic/dev-asic/ZeroToASIC/caravel_memLCDdriver/verilog/rtl/memLCDdriver/memLCDdriver.vcd"
+[dumpfile_mtime] "Mon May 24 20:32:52 2021"
+[dumpfile_size] 8687763
+[savefile] "/home/zerotoasic/dev-asic/ZeroToASIC/caravel_memLCDdriver/verilog/rtl/memLCDdriver/memLCDdriver.gtkw"
+[timestart] 0
+[size] 1848 911
+[pos] 2174 28
+*-17.739435 33333400 16666720 33333400 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] memLCDdriver.
+[sst_width] 233
+[signals_width] 192
+[sst_expanded] 1
+[sst_vpaned_height] 240
+@28
+memLCDdriver.i_clk
+memLCDdriver.i_reset
+@200
+-
+@28
+[color] 2
+memLCDdriver.i_spi_mosi
+[color] 1
+memLCDdriver.i_spi_clk
+memLCDdriver.i_spi_cs_n
+memLCDdriver.o_spi_cts
+@200
+-
+@28
+memLCDdriver.o_wfull_almost
+[color] 7
+memLCDdriver.o_wfull
+[color] 1
+memLCDdriver.o_rempty_almost
+memLCDdriver.o_rempty
+@200
+-
+@28
+memLCDdriver.o_intb
+memLCDdriver.o_gsp
+memLCDdriver.o_gck
+memLCDdriver.o_gen
+memLCDdriver.o_bsp
+[color] 4
+memLCDdriver.o_bck
+@24
+[color] 6
+memLCDdriver.o_rgb[5:0]
+@200
+-
+@28
+memLCDdriver.o_va
+memLCDdriver.o_vb
+memLCDdriver.o_vcom
+@29
+memLCDdriver.i_vcom_start
+@200
+-
+@24
+[color] 1
+memLCDdriver.memlcd_fsm.r_count_iclk[6:0]
+[color] 2
+memLCDdriver.memlcd_fsm.r_count_h[6:0]
+[color] 3
+memLCDdriver.memlcd_fsm.r_count_v[9:0]
+@28
+memLCDdriver.memlcd_fsm.r_finish_frame
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
